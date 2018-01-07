@@ -1,6 +1,6 @@
-name: 丘展春的微博
-url: http:// .org
-description: A stylish blog using the Solarized color palette
+name: 丘展春的博客
+url: http://0x07.life
+description: 记录生活和思考
 
 permalink: /:year/:month/:day/:title/
 paginate: 10
