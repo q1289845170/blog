@@ -2,6 +2,7 @@
 layout: post
 title:  "Hello Jekyll!"
 date:   2018-01-07 17:20:25
+img: we-in-rest.jpg # Add image post (optional)
 categories: life
 ---
 
