@@ -12,11 +12,11 @@ site-twitter: #if your site has a twitter account, enter it here
 author: 丘展春 # add your name
 author-img: qzc.jpg # add your photo
 about-author: 我是一个后端开发程序员。这个博客用来记录我的生活和思考 # add description
-social-twitter: # add your Twitter handle
-social-facebook: # add your Facebook handle
-social-github:  # add your Github handle
+social-twitter: f405e853b1a34f7 # add your Twitter handle
+social-facebook: zhanchun.qiu # add your Facebook handle
+social-github: q1289845170 # add your Github handle
 social-linkedin: # add your Linkedin handle
-social-email: # add your Email address
+social-email: 1289845170@qq.com # add your Email address
 
 # Disqus
 discus-identifier:  # add your discus identifier
