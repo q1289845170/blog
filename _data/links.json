@@ -1,7 +1,13 @@
 [
   {
-    "title": "技术宅",
-    "desc": "前端开发者",
+    "title": "前端开发者 - tmaize",
+    "desc": "我的博客主题就是从他这里fork来的",
     "url": "http://blog.tmaize.net/"
+  },
+
+  {
+    "title": "CSDN博主 - dog250",
+    "desc": "CSDN中的技术博主，专注于计算机网络",
+    "url": "https://me.csdn.net/dog250"
   }
 ]
