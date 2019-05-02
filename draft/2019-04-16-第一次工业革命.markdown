@@ -1,0 +1,5 @@
+---
+layout: mypost
+title: 第一次工业革命
+categories: [life]
+---
