@@ -34,3 +34,6 @@ kramdown:
   input: GFM
 
 exclude: ["CNAME", "README.md", "build-tool"]
+
+# 本地配置
+port: 4001
